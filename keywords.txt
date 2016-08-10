@@ -1,0 +1,4 @@
+EncoderCtl	KEYWORD1
+update	KEYWORD1
+set	KEYWORD1
+get	KEYWORD1
